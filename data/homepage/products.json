@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "En Kaliteli Kömürler",
+      "description": "Yüksek ısı verimi ve uzun yanma süresi sunan kömür çeşitlerimizle kış aylarında içinizi ısıtın. Ayrıca Uygun fiyatlarla temin edebileceğiniz kömürlerimiz, taksit seçenekleriyle bütçenizi zorlamadan ısınmanızı sağlar.",
+      "types": [
+        {
+          "id": 1,
+          "name": "Limon Kömür"
+        },
+        {
+          "id": 2,
+          "name": "Portakal Kömür"
+        },
+        {
+          "id": 3,
+          "name": "Fındık Kömür"
+        },
+        {
+          "id": 4,
+          "name": "Karpuz Kömür"
+        }
+      ],
+      "image": "/images/homepage/products/miryak_limon.png",
+      "alt": "Akabe Limon Kömür",
+      "product": "Kömür"
+    },
+    {
+      "id": 2,
+      "title": "GÜBRE VE TOPRAK ÜRÜNLERİ",
+      "description": "Yüksek kaliteli gübre ve toprak ürünlerimizle tarımda verimliliği artırın. Bitkilerinizin sağlıklı ve kuvvetli olmasını sağlayın.",
+      "types": [
+        {
+          "id": 1,
+          "name": "Gübretaş 25.5.10"
+        },
+        {
+          "id": 2,
+          "name": "Toros 25.5.10"
+        },
+        {
+          "id": 3,
+          "name": "Toros Can"
+        },
+        {
+          "id": 4,
+          "name": "26 Can"
+        }
+      ],
+      "image": "/images/homepage/products/gübretaş_25_5_10.png",
+      "alt": "Gübretaş 25.5.10",
+      "product": "Gübre"
+    },
+    {
+      "id": 3,
+      "title": "Pelet",
+      "description": "Yüksek kaliteli gübre ve toprak ürünlerimizle tarımda verimliliği artırın. Bitkilerinizin sağlıklı ve kuvvetli olmasını sağlayın.",
+      "types": [
+        {
+          "id": 1,
+          "name": "Çamsan 6mm"
+        },
+        {
+          "id": 2,
+          "name": "Çamsan 10mm"
+        },
+        {
+          "id": 3,
+          "name": "Nepel 6mm"
+        },
+        {
+          "id": 4,
+          "name": "Nepel 10mm"
+        }
+      ],
+      "image": "/images/homepage/products/çamsan_pelet.png",
+      "alt": "Çamsan 6mm",
+      "product": "Pelet"
+    },
+
+    {
+      "id": 4,
+      "title": "Odun",
+      "description": "Yüksek kaliteli gübre ve toprak ürünlerimizle tarımda verimliliği artırın. Bitkilerinizin sağlıklı ve kuvvetli olmasını sağlayın.",
+      "types": [
+        {
+          "id": 1,
+          "name": "Ton işi odun"
+        },
+        {
+          "id": 2,
+          "name": "Çuvallı Odun"
+        },
+        {
+          "id": 3,
+          "name": "Tutuşturmalık Odun"
+        },
+        {
+          "id": 4,
+          "name": "Sobalık Odun"
+        }
+      ],
+      "image": "/images/homepage/products/odun.png",
+      "alt": "Ton işi odun",
+      "product": "Odun"
+    },
+
+    {
+      "id": 5,
+      "title": "Tarım Kireci",
+      "description": "Yüksek kaliteli gübre ve toprak ürünlerimizle tarımda verimliliği artırın. Bitkilerinizin sağlıklı ve kuvvetli olmasını sağlayın.",
+      "types": [
+        {
+          "id": 1,
+          "name": "Arkal Tarım Kireci"
+        }
+      ],
+      "image": "/images/homepage/products/tarım_kireci.png",
+      "alt": "Tarım Kireci",
+      "product": "Tarım Kireci"
+    }
+  ]
+}
