@@ -1,10 +1,10 @@
-import BizeUlasin from "@/components/sections/BizeUlasin";
-import Hakkimizda from "@/components/sections/Hakkimizda";
-import Hero from "@/components/sections/Hero";
-import ProductsList from "@/components/sections/ProductsList";
-import ProductsPageHeader from "@/components/sections/ProductsPageHeader";
+import BizeUlasin from "@/components/sections/homepage/BizeUlasin";
+import Hakkimizda from "@/components/sections/homepage/Hakkimizda";
+import Hero from "@/components/sections/homepage/Hero";
+import ProductsList from "@/components/sections/homepage/ProductsList";
+import ProductsPageHeader from "@/components/sections/homepage/ProductsPageHeader";
 
-import Slogan from "@/components/sections/Slogan";
+import Slogan from "@/components/sections/homepage/Slogan";
 import bg from "@/public/images/homepage/hero/bosem_background.jpg";
 
 export default function Home() {

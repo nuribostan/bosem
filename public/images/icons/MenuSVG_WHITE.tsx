@@ -9,7 +9,7 @@ const MenuSVG = () => {
       className="w-full h-full object-contain"
     >
       <g
-        fill="#ffffff"
+        fill="#cca24a"
         fillRule="nonzero"
         stroke="none"
         strokeWidth="1"

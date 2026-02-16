@@ -1,0 +1,252 @@
+{
+  "urunler": [
+    {
+      "id": 1,
+      "title": "Kömür",
+      "image": "/images/homepage/products/miryak_limon.png",
+      "alt": "Komür",
+      "desc": "Yüksek ısı verimi ve uzun yanma süresi sunan kömür çeşitlerimizle kış aylarında içinizi ısıtın.",
+      "url": "/urunler/komur",
+      "types": [
+        {
+          "id": 1,
+          "brand": "Miryak",
+          "types": [
+            {
+              "id": 1,
+              "title": "Miryak Limon",
+              "image": "/images/homepage/products/miryak_limon.png",
+              "alt": "Miryak Limon Kömür",
+              "desc": "Soba, kalorifer kazanı, sanayi buhar kazanı gibi yerlerde kullanılabilen, 18-70 mm. boyutlarına sahip kömürdür. Yıkanmış ve 25 Kiloluk torbalarda satışa sunulur. Evler, apartmanlar ve bazı sanayilerdeki buhar kazanları için uygun kalori ve tüketim değerleriyle sanayi kuruluşları için ekonomik bir avantajdır.",
+              "brand": "Miryak"
+            },
+            {
+              "id": 2,
+              "title": "Miryak Portakal",
+              "image": "/images/homepage/products/miryak_portakal.png",
+              "alt": "Mirak Portakal Kömür",
+              "desc": "Kat kaloriferleri ve merkezi ısıtma sistemli konutlarda yakımlık amaçlı 40 kg lık torbalarda satışa sunulmaktadır. 50mm - 150mm arası boyutlara sahiptir, kalorifer kazanları ve sanayi kuruluşları için kullanılabilir.",
+              "brand": "Miryak"
+            }
+          ]
+        },
+
+        {
+          "id": 2,
+          "brand": "Akabe",
+          "types": [
+            {
+              "id": 1,
+              "title": "Akabe Limon",
+              "image": "/images/homepage/products/akabe_limon.png",
+              "alt": "Akabe Limon Kömür",
+              "desc": "Soba, kalorifer kazanı, sanayi buhar kazanı gibi yerlerde kullanılabilen, 18-70 mm. boyutlarına sahip kömürdür. Yıkanmış ve 25 Kiloluk torbalarda satışa sunulur. Evler, apartmanlar ve bazı sanayilerdeki buhar kazanları için uygun kalori ve tüketim değerleriyle sanayi kuruluşları için ekonomik bir avantajdır.",
+              "brand": "Miryak"
+            },
+            {
+              "id": 2,
+              "title": "Akabe Portakal",
+              "image": "/images/homepage/products/akabe_portakal.png",
+              "alt": "Akabe Portakal Kömür",
+              "desc": "Kat kaloriferleri ve merkezi ısıtma sistemli konutlarda yakımlık amaçlı 40 kg lık torbalarda satışa sunulmaktadır. 50mm - 150mm arası boyutlara sahiptir, kalorifer kazanları ve sanayi kuruluşları için kullanılabilir.",
+              "brand": "Akabe"
+            },
+            {
+              "id": 3,
+              "title": "Akabe Karpuz",
+              "image": "/images/homepage/products/akabe_karpuz.png",
+              "alt": "Akabe Karpuz Kömür",
+              "desc": "Merkezi ısıtma sistemli konutlarda ısınma amaçlı kullanılır. 110 mm ve üzeri ölçülere sahiptir, 45 kiloluk torbalarda satışa sunulur. Apartman ve sanayi kazanları için idealdir.",
+              "brand": "Akabe"
+            },
+            {
+              "id": 4,
+              "title": "Akabe Fındık",
+              "image": "/images/homepage/products/akabe_fındık.png",
+              "alt": "Akabe Fındık Kömür",
+              "desc": "Stokerli kat kalorifer kazanları ve sanayi kuruluşları için satışı yapılan dökme 10 mm -18 mm boyutlara sahip sanayi kömürüdür. Yıkanmış ve 25 Kiloluk torbalı (ambalajlı) veya dökme olarak satışa sunulur. İşletmeler için uygun kalori ve tüketim değerleriyle sanayi kuruluşları için ekonomik bir avantajdır",
+              "brand": "Akabe"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "title": "Gübre",
+      "image": "/images/homepage/products/gübretaş_25_5_10.png",
+      "alt": "Gübre",
+      "desc": "Yüksek kaliteli gübre ve toprak ürünlerimizle tarımda verimliliği artırın. Bitkilerinizin sağlıklı ve kuvvetli olmasını sağlayın.",
+      "url": "/urunler/gubre",
+      "types": [
+        {
+          "id": 1,
+          "brand": "Gübretaş",
+          "types": [
+            {
+              "id": 1,
+              "title": "Gübretaş 25-5-10 Gübre",
+              "image": "/images/homepage/products/gübretaş_25_5_10.png",
+              "alt": "Gübretaş 25-5-10 Gübre",
+              "desc": "Çay için özel üretilmiştir ancak yaprakları yenen sebzelerde, patateste ve çim alanlarda da rahatlıkla kullanılabilir. İçeriğindeki azot, bitkilerin sağlıklı ve dengeli bir şekilde büyüme ve gelişmesine yardımcı olur. Fosfor ve potasyum ise uygun dal ve kardeşlenme meydana getirerek, dış etkilere karşı bitkiyi dayanıklı hale getirir. Gübredeki azot oranının fosfor ve potasyuma göre fazla olmasının sebebi çay bitkisinin topraktan daha fazla azot kaldırmasıdır. Azot ile çay yaprağının kalitesi doğrudan ilişkilidir.",
+              "brand": "Gübretaş"
+            }
+          ]
+        },
+
+        {
+          "id": 2,
+          "brand": "Toros",
+          "types": [
+            {
+              "id": 1,
+              "title": "Toros 25-5-10 Gübre",
+              "image": "/images/homepage/products/toros_25_5_10.png",
+              "alt": "Toros 25-5-10 Gübre",
+              "desc": "25-5-10 kompoze gübresi sadece yaprağı tüketilen ve bir kalite bitkisi olan çay bitkisinin gerek yetişme alanı topraklarının özelliği ve gerekse çay bitkisinin topraktan kaldırdığı azot, fosfor ve potasyum miktarları üzerine yapılan bilimsel çalışmalar sonucunda geliştirilmiş bir kompoze gübresidir.",
+              "brand": "Toros"
+            },
+            {
+              "id": 2,
+              "title": "Toros 26 Azot Gübre",
+              "image": "/images/homepage/products/toros_26_azot.png",
+              "alt": "Toros 26 Azot Gübre",
+              "desc": "CAN, çeltik hariç tüm bitkilerin gübrelenmesinde en çok kullanılan üst gübresidir. Yapısında %26 azot (N) bulunur.",
+              "brand": "Toros"
+            },
+            {
+              "id": 3,
+              "title": "Toros Can Gübre",
+              "image": "/images/homepage/products/toros_can.png",
+              "alt": "Toros Can Gübre",
+              "desc": "CAN, çeltik hariç tüm bitkilerin gübrelenmesinde en çok kullanılan üst gübresidir. Yapısında %26 azot (N) bulunur.",
+              "brand": "Toros"
+            }
+          ]
+        },
+
+        {
+          "id": 1,
+          "brand": "Gemlik",
+          "types": [
+            {
+              "id": 1,
+              "title": "Gemlik Can Gübre",
+              "image": "/images/homepage/products/gemlik_can.png",
+              "alt": "Gemlik Can Gübre",
+              "desc": "CAN, çeltik hariç tüm bitkilerin gübrelenmesinde en çok kullanılan üst gübresidir. Yapısında %26 azot (N) bulunur.",
+              "brand": "Gemlik"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "title": "Pelet",
+      "image": "/images/homepage/products/çamsan_pelet.png",
+      "alt": "Pelet",
+      "desc": "Pellet yakıtları, yenilenebilir kaynaklardan elde edilen çevre dostu bir ısınma çözümüdür. Atık ahşap, talaş ve tarımsal kalıntılar gibi biyokütle kaynaklarından üretilen pelletler, doğal döngüyü koruyan sürdürülebilir bir enerji kaynağı sunar.",
+      "url": "/urunler/pelet",
+      "types": [
+        {
+          "id": 1,
+          "brand": "Çamsan",
+          "types": [
+            {
+              "id": 1,
+              "title": "Çamsan Çam Peleti",
+              "image": "/images/homepage/products/çamsan_pelet.png",
+              "alt": "Çamsan Çam Peleti",
+              "desc": "Pellet yakıtları, yenilenebilir kaynaklardan elde edilen çevre dostu bir ısınma çözümüdür. Atık ahşap, talaş ve tarımsal kalıntılar gibi biyokütle kaynaklarından üretilen pelletler, doğal döngüyü koruyan sürdürülebilir bir enerji kaynağı sunar.",
+              "brand": "Çamsan"
+            }
+          ]
+        },
+
+        {
+          "id": 2,
+          "brand": "Nepel",
+          "types": [
+            {
+              "id": 1,
+              "title": "Nepel Çam Peleti",
+              "image": "/images/homepage/products/nepel_pelet.png",
+              "alt": "Nepel Çam Peleti",
+              "desc": "Pellet yakıtları, yenilenebilir kaynaklardan elde edilen çevre dostu bir ısınma çözümüdür. Atık ahşap, talaş ve tarımsal kalıntılar gibi biyokütle kaynaklarından üretilen pelletler, doğal döngüyü koruyan sürdürülebilir bir enerji kaynağı sunar.",
+              "brand": "Nepel"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "title": "Odun",
+      "image": "/images/homepage/products/odun.png",
+      "alt": "Odun",
+      "desc": "Yüksek ısı verimi ve uzun yanma süresi sunan odun çeşitlerimizle kış aylarında içinizi ısıtın.",
+      "url": "/urunler/odun",
+      "types": [
+        {
+          "id": 1,
+          "brand": "BOSEM Odun",
+          "types": [
+            {
+              "id": 1,
+              "title": "BOSEM Ton İşi Odun",
+              "image": "/images/homepage/products/odun.png",
+              "alt": "BOSEM Odun",
+              "desc": "Yüksek ısı verimi ve uzun yanma Süresi sunan limon çeşitlerimizle kış aylarında içinizi ısıtın.",
+              "brand": "BOSEM"
+            },
+            {
+              "id": 2,
+              "title": "BOSEM Çuvallı Odun",
+              "image": "/images/homepage/products/çuvallı_odun.png",
+              "alt": "BOSEM Çuvallı Odun",
+              "desc": "Yüksek ısı verimi ve uzun yanma Süresi sunan limon çeşitlerimizle kış aylarında içinizi ısıtın.",
+              "brand": "BOSEM"
+            },
+            {
+              "id": 3,
+              "title": "BOSEM Tutuşturmalık Odun",
+              "image": "/images/homepage/products/tutuşturmalık_odun.png",
+              "alt": "BOSEM Tutuşturmalık Odun",
+              "desc": "Yüksek ısı verimi ve uzun yanma Süresi sunan limon çeşitlerimizle kış aylarında içinizi ısıtın.",
+              "brand": "BOSEM"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "title": "Tarım Kireci",
+      "image": "/images/homepage/products/tarım_kireci.png",
+      "alt": "Tarım Kireci",
+      "desc": "Yüksek kaliteli toprak ürünlerimizle tarımda verimliliği artırın. Bitkilerinizin sağlıklı ve kuvvetli olmasını sağlayın.",
+      "url": "/urunler/tarim-kireci",
+      "types": [
+        {
+          "id": 1,
+          "brand": "Çamsan",
+          "types": [
+            {
+              "id": 1,
+              "title": "Tarım Kireci",
+              "image": "/images/homepage/products/tarım_kireci.png",
+              "alt": "Tarım Kireci",
+              "desc": "Tarım Kireci, temel olarak kalsiyum karbonat (CaCO₃) içeren bir toprak düzenleyicisidir. Toprak pH seviyesinin yükseltilmesi ve asidik toprakların nötralize edilmesi amacıyla kullanılır. ",
+              "brand": "Arkal"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
