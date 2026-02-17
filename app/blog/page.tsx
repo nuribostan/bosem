@@ -3,11 +3,12 @@ import Image from "next/image";
 import Link from "next/link";
 import { blogPosts } from "@/data/blogData";
 import FeaturedSlider from "@/components/blog/FeaturedSlider";
+import { Metadata } from "next";
 
-export const metadata = {
-  title: "Blog & Haberler | BOSEM TARIM",
-  description:
-    "Tarım, ısınma sistemleri, gübreleme ve kömür kullanımı hakkında güncel bilgiler, uzman tavsiyeleri ve haberler.",
+export const metadata: Metadata = {
+  title: "Blog & Tarım Rehberi",
+  description: "Doğru kömür seçimi, çay gübreleme teknikleri, pelet yakıt rehberi ve tarım sektöründeki en güncel haberler.",
+  keywords: ["kömür nasıl seçilir", "çay gübresi ne zaman verilir", "pelet yakıtı avantajları", "tarım haberleri"],
 };
 
 type Props = {

@@ -3,6 +3,12 @@ import Slogan from "@/components/sections/hakkimizda/Slogan";
 import bg from "@/public/images/homepage/hero/bosem_background.jpg";
 import HakkimizdaTitle from "@/components/sections/hakkimizda/Title";
 import HakkimizdaContent from "@/components/sections/hakkimizda/Content";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Hakkımızda",
+  description: "Yılların tecrübesiyle Rize'de tarım ve ısınma sektöründe güvenin adresi. Müşteri memnuniyeti, kaliteli ürün ve uygun fiyat politikamızla hizmetinizdeyiz.",
+};
 
 const HakkimizdaPage = () => {
   return (

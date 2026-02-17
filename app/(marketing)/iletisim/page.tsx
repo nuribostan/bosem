@@ -1,9 +1,16 @@
 import Image from "next/image";
+import { Metadata } from "next";
 
-export const metadata = {
-  title: "İletişim | BOSEM TARIM",
+export const metadata: Metadata = {
+  title: "İletişim & Şubelerimiz",
   description:
-    "Bosem Tarım Rize Merkez ofis ve depo iletişim bilgileri, adres, çalışma saatleri ve harita konumu.",
+    "Bosem Tarım Rize Merkez ofis ve depo iletişim bilgileri. Toptan ve perakende ucuz kömür, gübre siparişi için bize ulaşın. Hızlı teslimat.",
+  keywords: [
+    "rize kömür firmaları",
+    "bosem tarım iletişim",
+    "rize gübre bayileri",
+    "toptan kömür rize",
+  ],
 };
 
 export default function İletisimPage() {
@@ -16,8 +23,8 @@ export default function İletisimPage() {
             Bizimle <span className="text-[#cca24a]">İletişime Geçin</span>
           </h1>
           <p className="text-stone-300 text-lg md:text-xl max-w-2xl font-light">
-            Rize{`'`}de kömür, pelet ve gübre ihtiyaçlarınız için uzman ekibimizle
-            her zaman yanınızdayız. Size bir telefon kadar yakınız.
+            Rize{`'`}de kömür, pelet ve gübre ihtiyaçlarınız için uzman
+            ekibimizle her zaman yanınızdayız. Size bir telefon kadar yakınız.
           </p>
         </div>
       </section>

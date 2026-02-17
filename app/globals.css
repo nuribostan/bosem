@@ -78,3 +78,15 @@ li {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
+
+@media (max-width: 768px) {
+  .prose li.flex {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 0.25rem !important;
+  }
+  .prose li.flex span.font-bold {
+    display: inline-block !important;
+    margin-bottom: 0.25rem !important;
+  }
+}
